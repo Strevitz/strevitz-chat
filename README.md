@@ -2,6 +2,8 @@
 
 ### Chat application with sign in and with a choice of rooms. You can chat in real time with emojis.
 
+![chat-laptop-full](https://user-images.githubusercontent.com/61030079/89400314-04ea4080-d714-11ea-9803-f9920565a18f.png)
+
 ![chat_presentation](https://user-images.githubusercontent.com/61030079/89347735-9c677900-d6ab-11ea-9950-a8fa80cee102.png)
 
 ## General info
