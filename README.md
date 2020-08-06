@@ -8,21 +8,27 @@
 
 ## General info
 
-This frontend application works together with this
-[rails application](https://github.com/Strevitz)
+Live chat app created to stay in touch! Front-End of chat app created in React.
+Back-End written with Socket.io, Node and Express.
+Front-End deployed in **Netlify** and Back-End deployed in **Heroku**.
 
 ## Tech info
 
-- The Vinyl shop website was written in **React**. I used **SCSS** and split the code into
-  modules.
-- In a project, I wanted to learn content flow and .
+Chat full stack application was written with **React** and **Node JS**. To connect pages I used React Router. To scroll chat messages I used React Scroll To Bottom. You can also add emoji to your mesages, to implement this I used React Emoji.
+The back end side of application was written in Node JS, Socket.io and Express.
 
 ## Technologies
 
+# Front-End
 - Javascript
 - React
-- Context API
-- Sassy CSS
+- React Router
+- CSS
+
+# Back-End
+- Node JS
+- Socket.io
+- Express
 
 ## Setup
 
@@ -35,14 +41,10 @@ $ npm start
 
 ## Link to app
 
-Go to this [link](https://vinyl.netlify.app) and buy few products.
+Go to this [link](https://strevitz-chat.netlify.app/) and buy few products.
 
 To buy products you can use Paypal developer account.
 
 ## Link to Rails Application
 
-[rails application](https://github.com/Strevitz/ecommerce-vinyl-react)
-
-
-
-Chat app created in React, Socket.io, Node, Express. Front-End deployed in Netlify and Back-End deployed in Heroku.
+[rails application](https://github.com/Strevitz/strevitz-chat)
