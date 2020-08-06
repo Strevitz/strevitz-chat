@@ -19,13 +19,13 @@ The back end side of application was written in Node JS, Socket.io and Express.
 
 ## Technologies
 
-# Front-End
+### Front-End
 - Javascript
 - React
 - React Router
 - CSS
 
-# Back-End
+### Back-End
 - Node JS
 - Socket.io
 - Express
